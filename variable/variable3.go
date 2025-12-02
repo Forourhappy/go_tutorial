@@ -19,4 +19,8 @@ func Variable3() {
 	fmt.Println(shortVar2)
 	fmt.Println(shortVar3)
 
+	if i := 10; i > 5 {
+		fmt.Println("i is greater than 5")
+	}
+
 }
