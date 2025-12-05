@@ -12,5 +12,10 @@ func main() {
 	// object.Struct3()
 	// object.Struct4()
 	// object.Struct5()
-	object.Struct6()
+	// object.Struct6()
+	// object.StructEx1()
+	// object.StructEx2()
+	// object.StructEx3()
+	// object.StructEx4()
+	object.StructEx5()
 }
