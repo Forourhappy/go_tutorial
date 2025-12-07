@@ -18,5 +18,12 @@ func main() {
 	// object.StructEx3()
 	// object.StructEx4()
 	// object.StructEx5()
-	object.Interface1()
+	// object.Interface1()
+	// object.Interface2()
+	// object.Interface3()
+	// object.Interface4()
+	// object.Interface5()
+	// object.InterfaceEx1()
+	// object.InterfaceEx2()
+	object.InterfaceEx3()
 }

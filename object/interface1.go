@@ -20,5 +20,5 @@ func Interface1() {
 	*/
 
 	var t test
-	fmt.Println(t)
+	fmt.Println(t) // 빈 인터페이스의 경우 nil
 }
