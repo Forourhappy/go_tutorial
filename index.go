@@ -14,5 +14,10 @@ func main() {
 	// statement.GoChannel3()
 	// statement.GoChannel4()
 	// statement.GoChannel5()
-	statement.GoChannel6()
+	// statement.GoChannel6()
+	// statement.GoChannelEx1()
+	// statement.GoChannelEx2()
+	// statement.GoChannelEx3()
+	// statement.GoChannelEx4()
+	statement.GoChannelEx5()
 }
