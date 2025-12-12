@@ -19,5 +19,7 @@ func main() {
 	// statement.GoChannelEx2()
 	// statement.GoChannelEx3()
 	// statement.GoChannelEx4()
-	statement.GoChannelEx5()
+	// statement.GoChannelEx5()
+	// statement.GoSync1()
+	statement.GoSync2()
 }
