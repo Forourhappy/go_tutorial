@@ -1,6 +1,6 @@
 package composite
 
-func main() {
+func Main() {
 	// Array1()
 	// Array2()
 	// Array3()

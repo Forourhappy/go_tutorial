@@ -1,6 +1,6 @@
 package packaging
 
-func main() {
+func Main() {
 	// Package1()
 	// Package2()
 	// Access1()

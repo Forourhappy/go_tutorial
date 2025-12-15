@@ -1,6 +1,6 @@
 package condition
 
-func main() {
+func Main() {
 	// If1()
 	// If2()
 	// If3()

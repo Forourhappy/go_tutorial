@@ -1,0 +1,28 @@
+package statement
+
+func Main() {
+	// Goroutine1()
+	// Goroutine2()
+	// Goroutine3()
+	// Goroutine4()
+	// GoChannel1()
+	// GoChannel2()
+	// GoChannel3()
+	// GoChannel4()
+	// GoChannel5()
+	// GoChannel6()
+	// GoChannelEx1()
+	// GoChannelEx2()
+	// GoChannelEx3()
+	// GoChannelEx4()
+	// GoChannelEx5()
+	// GoSync1()
+	// GoSync2()
+	// GoSync3()
+	// GoSync4()
+	// GoSync5()
+	// GoSyncEx1()
+	// GoSyncEx2()
+	// GoSyncEx3()
+	GoSyncEx4()
+}

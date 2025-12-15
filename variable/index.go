@@ -1,6 +1,6 @@
 package variable
 
-func main() {
+func Main() {
 	// Variable1()
 	// Variable2()
 	// Variable3()

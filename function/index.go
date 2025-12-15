@@ -1,6 +1,6 @@
 package function
 
-func main() {
+func Main() {
 	// Function1()
 	// Function2()
 	// Function3()

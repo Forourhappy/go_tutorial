@@ -1,6 +1,6 @@
 package datatype
 
-func main() {
+func Main() {
 	// Numeric1()
 	// Numeric2()
 	// Numeric3()

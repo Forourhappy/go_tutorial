@@ -1,6 +1,6 @@
 package object
 
-func main() {
+func Main() {
 	// UserStruct1()
 	// UserStruct2()
 	// UserStruct3()
