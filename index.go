@@ -1,14 +1,15 @@
 package main
 
-import "go_tutorial/variable"
+import "go_tutorial/condition"
 
 func main() {
-	// variable.Variable1()
-	// variable.Variable2()
-	// variable.Variable3()
-	// variable.Const1()
-	// variable.Const2()
-	// variable.Enumeration1()
-	// variable.Enumeration2()
-	variable.Enumeration3()
+	// condition.If1()
+	// condition.If2()
+	// condition.If3()
+	// condition.Switch1()
+	// condition.Switch2()
+	// condition.Switch3()
+	// condition.For1()
+	// condition.For2()
+	condition.For3()
 }
