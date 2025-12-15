@@ -1,0 +1,27 @@
+package object
+
+func main() {
+	// UserStruct1()
+	// UserStruct2()
+	// UserStruct3()
+	// UserStruct4()
+	// Struct1()
+	// Struct2()
+	// Struct3()
+	// Struct4()
+	// Struct5()
+	// Struct6()
+	// StructEx1()
+	// StructEx2()
+	// StructEx3()
+	// StructEx4()
+	// StructEx5()
+	// Interface1()
+	// Interface2()
+	// Interface3()
+	// Interface4()
+	// Interface5()
+	// InterfaceEx1()
+	// InterfaceEx2()
+	InterfaceEx3()
+}
