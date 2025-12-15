@@ -1,15 +1,14 @@
 package main
 
-import "go_tutorial/condition"
+import "go_tutorial/packaging"
 
 func main() {
-	// condition.If1()
-	// condition.If2()
-	// condition.If3()
-	// condition.Switch1()
-	// condition.Switch2()
-	// condition.Switch3()
-	// condition.For1()
-	// condition.For2()
-	condition.For3()
+	// packaging.Package1()
+	// packaging.Package2()
+	// packaging.Access1()
+	// packaging.Access2()
+	// packaging.Init()
+	// packaging.Init2()
+	packaging.Init3()
+
 }
