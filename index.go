@@ -1,21 +1,20 @@
 package main
 
-import "go_tutorial/composite"
+import "go_tutorial/function"
 
 func main() {
-	// composite.Array1()
-	// composite.Array2()
-	// composite.Array3()
-	// composite.Slice1()
-	// composite.Slice2()
-	// composite.SliceEx1()
-	// composite.SliceEx2()
-	// composite.SliceEx3()
-	// composite.Map1()
-	// composite.Map2()
-	// composite.Map3()
-	// composite.Map4()
-	// composite.Pointer1()
-	// composite.Pointer2()
-	composite.Pointer3()
+	// function.Function1()
+	// function.Function2()
+	// function.Function3()
+	// function.Function4()
+	// function.FunctionEx1()
+	// function.FunctionEx2()
+	// function.FunctionEx3()
+	// function.FunctionEx4()
+	// function.Defer1()
+	// function.Defer2()
+	// function.Defer3()
+	// function.Defer4()
+	// function.Closure1()
+	function.Closure2()
 }
